@@ -69,4 +69,63 @@
    - Real-time informacije o popunjenosti parkirališta od strane korisnika.
    - Ocjenjivanje i preporuke parkirališta.
 
-Sve ove inovacije mogle bi učiniti aplikaciju **praktičnijom, sigurnijom i privlačnijom za različite korisničke skupine**, čime bi se osigurao njezin dugoročni uspjeh. 😊
+-----------------------------------------------
+
+INOVACIJE DODANE PO PERSONI:
+
+# Business Model Canvas za 3 generacijske persone
+
+## 1. Persona: Gen Z (mlada studentica, 26 godina, Zagreb)
+
+### Pain points
+- Nedostatak AR navigacije do parkirnog mjesta.
+- Ne postoji opcija pametnog predviđanja dostupnosti parkirnih mjesta.
+- Ograničena integracija s pametnim satovima i glasovnim asistentima.
+- Nedostatak sigurnosnih značajki poput Panic Button-a.
+- Nemogućnost brze i jednostavne promjene rezervacije putem AI chatbota.
+
+### Ideal experience
+- Mogućnost AR navigacije do parkirnog mjesta.
+- Pametna predviđanja dostupnosti parkirnih mjesta temeljem AI analize.
+- Integracija s pametnim satovima i glasovnim asistentima za hands-free upravljanje.
+- Panic Button u aplikaciji za hitne situacije.
+- AI chatbot koji pomaže s rezervacijama i putnim informacijama.
+- Ekološki bonusi i popusti za korištenje električnih vozila ili carpoolinga.
+
+---
+
+## 2. Persona: Millennial (Marko, 38 godina, građevinski menadžer, Varaždin)
+
+### Pain points
+- Nedostatak opcije automatskog prepoznavanja registarske tablice za brži ulazak i izlazak.
+- Ne postoji mogućnost personaliziranih planova parkiranja temeljenih na prethodnim navikama.
+- Ograničene sigurnosne funkcije, nema pametnih notifikacija o stanju vozila.
+- Nedostatak mogućnosti online pregleda dostupnosti parkirnih mjesta u stvarnom vremenu.
+
+### Ideal experience
+- Automatsko prepoznavanje registarske tablice za beskontaktni ulazak/izlazak.
+- Personalizirani plan parkiranja temeljen na povijesti putovanja.
+- Pametne notifikacije o stanju vozila i mogućim sigurnosnim prijetnjama.
+- Mogućnost online pregleda dostupnosti parkirnih mjesta u stvarnom vremenu.
+- Društvena komponenta: recenzije i preporuke parkirališta u aplikaciji.
+
+---
+
+## 3. Persona: Boomer (Louis, 56 godina, vlasnik odvjetničkog ureda, poslovni putnik)
+
+### Pain points
+- Nedostatak VIP opcija za praćenje statusa vozila putem videonadzora.
+- Ne postoji premium podrška putem osobnog asistenta.
+- Lounge zona nije integrirana s aplikacijom za jednostavnu rezervaciju.
+- Nedostatak prioriteta pri dolasku i odlasku s parkirališta.
+
+### Ideal experience
+- VIP usluga videonadzora s opcijom pregleda statusa vozila u aplikaciji.
+- Osobni asistent unutar aplikacije za pomoć s rezervacijama i prilagodbama putovanja.
+- Mogućnost jednostavne rezervacije lounge zone kroz aplikaciju.
+- Prioritetna usluga prilikom dolaska i odlaska s parkirališta.
+- Premium opcije kao što su pranje i čišćenje vozila dostupne kroz aplikaciju.
+
+---
+
+
