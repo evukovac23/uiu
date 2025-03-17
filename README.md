@@ -8,3 +8,13 @@ rea je bi
 
 
 nisi posebna rea i ja ljubim cure
+
+---------------------------
+
+3 Persone
+
+Mapa vrijednosti
+
+Mapa putovanja
+
+Online test
