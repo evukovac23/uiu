@@ -12,3 +12,8 @@ Ideal experience nije isto ko bio
 
 Mi nudimo usluge svih parkinga, usporedbu cijena, tko nudi sto (npr za elektricne automobile)
 
+Da neko nije informaticki sposoban
+
+Prebacit sve na hrv ili eng
+
+Sve pisat u recenicama
