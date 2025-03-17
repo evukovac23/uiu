@@ -15,6 +15,6 @@ nisi posebna rea i ja ljubim cure
 
 Mapa vrijednosti
 
-Mapa putovanja
+Mapa putovanja - 6 koraka(preza)
 
 Online test
